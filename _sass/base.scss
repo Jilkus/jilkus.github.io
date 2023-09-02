@@ -1,0 +1,89 @@
+@import "modern-normalize.css";
+
+body {
+  background-color: white;
+  color: black;
+  font-family: 'Times New Roman', Times, serif;
+  display: grid;
+  font-size: 18px;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+  list-style-position: inside;
+}
+
+p {
+  max-width: 65ch;
+}
+
+p:first-of-type {
+  margin-top: 0;
+}
+
+#left-col {
+  position: sticky;
+  top: 0;
+  background-color: white;
+  width: 100%;
+  padding: 0.5rem;
+
+  nav, ul {
+    display: flex;
+    column-gap: 1rem;
+  }
+}
+
+#main-col {
+  padding: 0.5rem;
+}
+
+figure {
+  margin: 1rem 0;
+}
+
+img {
+  max-width: 100%;
+}
+
+div#artwork-list {
+  article.artwork {
+    margin: 4rem 0;
+
+    .artwork--caption {
+      margin-bottom: 1rem;
+    }
+  }
+
+  article.artwork:first-of-type {
+    margin-top: 0;
+  }
+}
+
+@media only screen and (min-width: 768px) {
+  body {
+    grid-template-columns: 25% 1fr;
+    padding: 1rem;
+  }
+
+  #left-col {
+    padding: 1rem;
+
+    nav {
+      position: sticky;
+      top: 2rem;
+      display: block;
+    
+      ul {
+        margin-top: 1rem;
+        display: block;
+      }
+    }
+  }
+  
+  #main-col {
+    padding: 1rem;
+  }
+}

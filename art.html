@@ -1,0 +1,21 @@
+---
+layout: default
+title: "Art"
+---
+
+<div id="artwork-list">
+  {% for item in site.artworks %}
+    <article class="artwork">
+      <div class="artwork--caption">
+        {{item.title}}, {{item.year}}<br>
+        {{item.materials}}<br>
+        {{item.dimensions}}<br>
+        {{item.info}}
+      </div>
+
+      <div class="artwork-body">
+        {{ item }}
+      </div>
+    </article>
+  {% endfor %}
+</div>

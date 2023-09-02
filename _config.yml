@@ -1,0 +1,12 @@
+url: "https://www.joshminkus.com"
+baseurl: ""
+title: "Josh Minkus" 
+permalink: pretty
+
+collections: 
+  artworks:
+    output: true
+    permalink: /art/:path/
+  writings:
+    output: true
+    permalink: /writing/:path/
