@@ -1,5 +1,4 @@
 ---
-layout: writing 
 title: "My First Story"
 year: 2023
 ---
