@@ -11,16 +11,16 @@ b. Elk, CA 1985
 Lives in New York, NY  
 
 
-Education  
-2019	MFA, Mason Gross School of the Arts, Rutgers University, New Brunswick, NJ  
+EDUCATION  
+  2019	MFA, Mason Gross School of the Arts, Rutgers University, New Brunswick, NJ  
 2011	BFA, Columbia College, Chicago, IL  
 2007	The Marchutz School, Aix-en-Provence, France  
-
-
-Solo and Two Person Exhibitions  
+  
+  
+SOLO AND TWO PERSON EXHIBITIONS  
 
 2018	*Soon*, The Middler, Brooklyn, NY
-2017	*Causes*, Low Rence, San Francisco, CA
+2017	*Causes*, Low Rence, San Francisco, CA  
 2016	*Spalt Spelt Spelter*, Species, Atlanta, GA
         *Lipe*, Right Window, San Francisco, CA 
         Pied-à-terre, Ottsville, PA
