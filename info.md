@@ -12,11 +12,13 @@ Lives in New York, NY
 www.joshminkus.com
 
 Education
+
 2019	MFA, Mason Gross School of the Arts, Rutgers University, New Brunswick, NJ
 2011	BFA, Columbia College, Chicago, IL
 2007	The Marchutz School, Aix-en-Provence, France
 
 Solo and Two Person Exhibitions
+
 2018	Soon, The Middler, Brooklyn, NY
 2017	Causes, Low Rence, San Francisco, CA
 2016	Spalt Spelt Spelter, Species, Atlanta, GA
@@ -28,6 +30,7 @@ Solo and Two Person Exhibitions
 2011	Wrong Domino, Plaines Project, Chicago, ILPougialis Award Exhibition, with Davida Newman, A+D Gallery, Chicago, IL
 
 Group Exhibitions
+
 2021	encapsulated, curated by Christopher LG Hill, Caves, Melbourne, Australia
 2019	As If, 1599fdT, San Francisco, CA
         Like A Day, Rutgers in NY, 21 Ludlow, New York, NY
@@ -46,6 +49,7 @@ Group Exhibitions
 2011	Hokin Honors Exhibition, C33 Gallery, Chicago, IL
 
 Publications 
+
 2019	POME, poem, published by Jesse Malmed
 The Daily Stress, poem, published by Esther Sibiude
 Mirage/Period[ical], edited by Dodie Bellamy & Kevin Killian, April, published by The Wattis Institute (https://wattis.org/view?id=633)
@@ -56,6 +60,7 @@ Mirage/Period[ical], edited by Dodie Bellamy & Kevin Killian, April, published b
 2014	Monsters and Dust, 3 Poems (monstersanddust.com)
 
 Performances, Readings, Talks	
+
 2020	Escape of the Center, organized by Esther Sibiude, Montez Radio, New York, NY
 Tools of Morning, organized by Esther Sibiude, Montez Radio, New York, NY
 2019	Disagreeable Body, lecture performance, school, Vienna, Austria
@@ -69,11 +74,13 @@ Reading organized by Quintessa Matranga, Mission Comics, San Francisco, CA
 Artist talk, Real Time & Space, Oakland, CA
 
 Curatorial
+
 2020	HEADS, with Mary Helena Clark and Aily Nash, 99 Scott, Brooklyn, NY
 2016	Sessile, Giulia Cenci, Rand Hardy, Eva Löfdahl, K.r.m. Mooney, Nick Raffel, Clifford Gallery at Colgate University, Hamilton, NY
 2015	As Is Is, film program curated with Mary Helena Clark, Altman Siegel, San Francisco, CA
 
 Press
+
 2016	“Josh Minkus at Species,” AQNB, August 19
 “2000 at Sydney,” Contemporary Art Daily, July 3
 2015	“City Limits, Conversations Pieces,” Curiously Direct, June 2
