@@ -9,7 +9,7 @@ collections:
     permalink: /art/:path/
   texts:
     output: true
-    permalink: /texts/:path/
+    permalink: /text/:path/
 
 defaults:
   - scope:
