@@ -9,7 +9,7 @@ title: "Info"
 Josh Minkus  
 b. Elk, CA 1985  
 Lives in New York, NY  
-www.joshminkus.com  
+
 
 Education
 2019	MFA, Mason Gross School of the Arts, Rutgers University, New Brunswick, NJ
