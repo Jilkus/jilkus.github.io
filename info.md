@@ -6,13 +6,12 @@ title: "Info"
 [jminkus@gmail.com](mailto:jminkus@gmail.com)
 
 
-Josh Minkus
-b. Elk, CA 1985
-Lives in New York, NY
-www.joshminkus.com
+Josh Minkus  
+b. Elk, CA 1985  
+Lives in New York, NY  
+www.joshminkus.com  
 
 Education
-
 2019	MFA, Mason Gross School of the Arts, Rutgers University, New Brunswick, NJ
 2011	BFA, Columbia College, Chicago, IL
 2007	The Marchutz School, Aix-en-Provence, France
@@ -52,7 +51,7 @@ Publications
 
 2019	POME, poem, published by Jesse Malmed
 The Daily Stress, poem, published by Esther Sibiude
-Mirage/Period[ical], edited by Dodie Bellamy & Kevin Killian, April, published by The Wattis Institute (https://wattis.org/view?id=633)
+Mirage/Period-ical-, edited by Dodie Bellamy & Kevin Killian, April, published by The Wattis Institute (https://wattis.org/view?id=633)
 2017	Pied-à-terre, essay (pied-terre.com)
 	No Spitting in the Garden, MARTHA Magazine, poem (m-a-r-t-h-a.com)
 2015	st. remembory, Auto Generated Email Directory (age.directory)
