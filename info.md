@@ -11,9 +11,9 @@ b. Elk, CA 1985
 Lives in New York, NY  
 
 
-Education
-2019	MFA, Mason Gross School of the Arts, Rutgers University, New Brunswick, NJ
-2011	BFA, Columbia College, Chicago, IL
+Education  
+2019	MFA, Mason Gross School of the Arts, Rutgers University, New Brunswick, NJ  
+2011	BFA, Columbia College, Chicago, IL  
 2007	The Marchutz School, Aix-en-Provence, France  
 
 
