@@ -6,7 +6,10 @@ title: "Info"
 [jminkus@gmail.com](mailto:jminkus@gmail.com)
 
 
-Josh Minkusb. Elk, CA 1985Lives in New York, NYwww.joshminkus.com
+Josh Minkus
+b. Elk, CA 1985
+Lives in New York, NY
+www.joshminkus.com
 
 Education
 2019	MFA, Mason Gross School of the Arts, Rutgers University, New Brunswick, NJ
@@ -17,29 +20,29 @@ Solo and Two Person Exhibitions
 2018	Soon, The Middler, Brooklyn, NY
 2017	Causes, Low Rence, San Francisco, CA
 2016	Spalt Spelt Spelter, Species, Atlanta, GA
-Lipe, Right Window, San Francisco, CA
-Pied-à-terre, Ottsville, PA
+        Lipe, Right Window, San Francisco, CA 
+        Pied-à-terre, Ottsville, PA
 2014	Dilbert’s Moon, Important Projects, Oakland, CA 
 2012	Popular Standard, with Mary Helena Clark, Cleopatra’s, Brooklyn, NY
-	By Deputy, with Young Joon Kwak, Happy Dog, Chicago, IL
+	    By Deputy, with Young Joon Kwak, Happy Dog, Chicago, IL
 2011	Wrong Domino, Plaines Project, Chicago, ILPougialis Award Exhibition, with Davida Newman, A+D Gallery, Chicago, IL
 
 Group Exhibitions
 2021	encapsulated, curated by Christopher LG Hill, Caves, Melbourne, Australia
 2019	As If, 1599fdT, San Francisco, CA
-Like A Day, Rutgers in NY, 21 Ludlow, New York, NY
-All Conditions, Rutgers Thesis Exhibition, Mason Gross Galleries, New Brunswick, NJ
-2017	From Error of Nature, Monsters and Sport, Rutgers Gardens, New Brunswick, NJArchipelago Mixtape, Hordaland Kunstsenter, Bergen, Norway
+        Like A Day, Rutgers in NY, 21 Ludlow, New York, NY
+        All Conditions, Rutgers Thesis Exhibition, Mason Gross Galleries, New Brunswick, NJ
+2017	From Error of Nature, Monsters and Sport, Rutgers Gardens, New Brunswick, NJ
+        Archipelago Mixtape, Hordaland Kunstsenter, Bergen, Norway
 2016	Peachtree Industrial, curated by Species, Bodega, New York, NY 
-2000, Sydney, Sydney, Australia
-2015	By the Bearer in Whose Name it is Issued, curated by Quintessa Matranga, Centre for Style, 
-Melbourne, Australia
-Tear Inferno, curated by Et al., Land & Sea, Oakland, CA 
-Ajax Hex, curated by Elliott Cost, Point Pinole, Richmond, CA
-Conversation Pieces, City Limits, Oakland, CA
-Nitro Trail, curated by Elliott Cost, Point Pinole, Richmond, CA
+        2000, Sydney, Sydney, Australia
+2015	By the Bearer in Whose Name it is Issued, curated by Quintessa Matranga, Centre for Style, Melbourne, Australia
+    Tear Inferno, curated by Et al., Land & Sea, Oakland, CA 
+    Ajax Hex, curated by Elliott Cost, Point Pinole, Richmond, CA
+    Conversation Pieces, City Limits, Oakland, CA
+    Nitro Trail, curated by Elliott Cost, Point Pinole, Richmond, CA
 2013	Public Exercise, 1038, San Francisco, CA
-	Forever & Always, Chicago, IL
+	    Forever & Always, Chicago, IL
 2011	Hokin Honors Exhibition, C33 Gallery, Chicago, IL
 
 Publications 
