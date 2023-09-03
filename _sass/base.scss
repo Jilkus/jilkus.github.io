@@ -24,17 +24,25 @@ p:first-of-type {
 }
 
 h1, h2, h3 {
+  font-size: inherit;
   margin-top: 0;
 }
 
 #left-col {
   position: sticky;
   top: 0;
+  align-self: start; // required for sticky position of grid item
+  display: flex;
+  column-gap: 2rem;
   background-color: white;
   width: 100%;
   padding: 0.5rem;
 
-  nav, ul {
+  h1 {
+    margin: 0;
+  }
+
+  nav ul {
     display: flex;
     column-gap: 1rem;
   }
@@ -78,17 +86,13 @@ div#artwork-list {
   }
 
   #left-col {
+    display: block;
+    top: 1rem;
     padding: 1rem;
 
-    nav {
-      position: sticky;
-      top: 2rem;
+    nav ul {
+      margin-top: 1rem;
       display: block;
-    
-      ul {
-        margin-top: 1rem;
-        display: block;
-      }
     }
   }
   
