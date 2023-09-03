@@ -61,20 +61,24 @@ figure {
   }
 }
 
+figure:first-child {
+  margin-top: 0;
+}
+
 img {
   max-width: 100%;
 }
 
 div#artwork-list {
-  article.artwork {
+  .artwork-list-item {
     margin: 4rem 0;
 
     .artwork--caption {
-      margin-bottom: 1rem;
+      margin-top: 0.5rem;
     }
   }
 
-  article.artwork:first-of-type {
+  .artwork-list-item:first-of-type {
     margin-top: 0;
   }
 }

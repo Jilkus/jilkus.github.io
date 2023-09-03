@@ -4,18 +4,12 @@ title: "Art"
 ---
 
 <div id="artwork-list">
-  {% for item in site.artworks %}
-    <article class="artwork">
-      <div class="artwork--caption">
-        {{item.title}}, {{item.year}}<br>
-        {{item.materials}}<br>
-        {{item.dimensions}}<br>
-        {{item.info}}
-      </div>
-
-      <div class="artwork-body">
-        {{ item }}
-      </div>
-    </article>
+  {% for item in site.artworks reversed %}
+    <div class="artwork-list-item">
+      <a href="{{item.url}}">
+        <img src="{{site.baseurl}}/assets/images/{{ item.key_image }}"/>
+        <div class="artwork--caption">{{ item.title }}</div>
+      </a>
+    </div>
   {% endfor %}
 </div>
