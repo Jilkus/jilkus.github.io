@@ -1,0 +1,11 @@
+---
+layout: default
+title: "Text"
+year: 2023
+---
+
+<ul>
+  {% for item in site.texts reversed %}
+    <li><a href="{{item.url}}">{{item.title}}</a></li>
+  {% endfor %}
+</ul>

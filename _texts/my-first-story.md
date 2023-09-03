@@ -1,6 +1,6 @@
 ---
 title: "My First Story"
-year: 2023
+date: 2023-01-01
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Magna etiam tempor orci eu lobortis elementum nibh. Ornare quam viverra orci sagittis. Elit ut aliquam purus sit. Et tortor consequat id porta nibh venenatis cras. Est lorem ipsum dolor sit amet consectetur adipiscing elit pellentesque. Libero id faucibus nisl tincidunt eget. Ultrices gravida dictum fusce ut placerat orci nulla pellentesque. Feugiat nisl pretium fusce id. Orci a scelerisque purus semper eget duis. Aliquam sem et tortor consequat. Diam in arcu cursus euismod quis. Feugiat nibh sed pulvinar proin gravida hendrerit. Nulla pellentesque dignissim enim sit amet. Netus et malesuada fames ac turpis. Vehicula ipsum a arcu cursus vitae congue. Metus aliquam eleifend mi in nulla posuere. Nunc pulvinar sapien et ligula.

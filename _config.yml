@@ -7,9 +7,9 @@ collections:
   artworks:
     output: true
     permalink: /art/:path/
-  writings:
+  texts:
     output: true
-    permalink: /writing/:path/
+    permalink: /texts/:path/
 
 defaults:
   - scope:
@@ -19,6 +19,6 @@ defaults:
       layout: "default"
   - scope:
       path: ""
-      type: "writings"
+      type: "texts"
     values:
       layout: "default"
